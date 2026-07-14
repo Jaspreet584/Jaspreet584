@@ -4,9 +4,7 @@
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1>👩‍💻 Jaspreet Kaur</h1>
-
-<h3>AI & ML Engineer · Python Developer · Open Source Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Jaspreet%20Kaur&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -17,14 +15,20 @@
 
 <br/><br/>
 
-<!-- Status Pills -->
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI_%26_ML_Engineering-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Tech Badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-00C851?style=for-the-badge)
 
 <br/><br/>
+
+> **Jaspreet Kaur** — An aspiring AI/ML Engineer who builds intelligent, production-ready applications.
+> Specializing in **healthcare AI**, **fintech ML**, and **campus automation** using Python, Scikit-learn, and Flask.
+> Actively exploring **Generative AI**, **LangChain**, and **RAG architectures**.
+
+<br/>
 
 <!-- Social Links -->
 <a href="https://www.linkedin.com/in/jaspreet-kaur-45705a31a/" target="_blank">
@@ -49,22 +53,12 @@
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-
-<br/>
-
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Jaspreet584&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧠 About Me
 
@@ -93,10 +87,6 @@ class JaspreetKaur:
 - 🎯 Goal: **Contribute to production AI systems** at a top tech company
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -166,7 +156,6 @@ Warden Dashboard (Real-time tracking)
 <br/>
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaspreet584/egatepass)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 
 </td>
 </tr>
@@ -190,19 +179,9 @@ Warden Dashboard (Real-time tracking)
 - 💼 **Business Impact** — Reduces churn & improves customer satisfaction
 - 📈 **Model Evaluation** — Precision, recall & NDCG metrics
 
-**🏗️ Architecture**
-```
-User Data → Feature Engineering → ML Model (Sklearn)
-     ↓                                    ↓
-User Profile ← Data Analysis ← Trained Recommender
-     ↓
-Ranked Credit Card Recommendations
-```
-
 **🔮 Future Improvements**
 - Deep learning with neural collaborative filtering
 - Real-time API endpoint for production integration
-- A/B testing framework for recommendation quality
 - Explainability (SHAP) for transparent suggestions
 
 </td>
@@ -217,16 +196,6 @@ Ranked Credit Card Recommendations
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-<br/>
-
-**Highlights**
-
-🏆 Fintech ML application
-🎯 User-based recommendations
-📊 Advanced feature engineering
-💡 Business-impact focused
-📈 Evaluation metrics
 
 <br/>
 
@@ -250,23 +219,11 @@ Ranked Credit Card Recommendations
 - 🌲 **Random Forest Classifier** — High-accuracy ensemble fraud detection
 - ⚖️ **Imbalanced Data Handling** — SMOTE oversampling for class balance
 - 🔧 **Feature Engineering** — Transaction amount normalization, time features
-- 🧹 **Data Preprocessing** — Outlier removal, standardization pipeline
 - 📉 **Model Evaluation** — ROC-AUC, Confusion Matrix, Precision-Recall
 - ⚡ **Fraud Prediction** — Real-time binary classification pipeline
 
-**🏗️ Architecture**
-```
-Raw Transaction Data → Preprocessing Pipeline → Feature Engineering
-           ↓                                            ↓
-   SMOTE Oversampling ← Imbalanced Dataset ← Cleaned Data
-           ↓
-Random Forest Model → Fraud / Not Fraud (ROC-AUC: ~0.98)
-```
-
 **🔮 Future Improvements**
 - XGBoost & LightGBM ensemble for production
-- Real-time streaming with Apache Kafka
-- Model monitoring & drift detection
 - REST API deployment with FastAPI
 
 </td>
@@ -281,16 +238,6 @@ Random Forest Model → Fraud / Not Fraud (ROC-AUC: ~0.98)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
-**Highlights**
-
-🏆 Production-grade ML pipeline
-🌲 Random Forest ensemble
-📊 ROC-AUC evaluation
-⚖️ Imbalanced data handling
-🔒 Security-focused AI
 
 <br/>
 
@@ -313,25 +260,12 @@ Random Forest Model → Fraud / Not Fraud (ROC-AUC: ~0.98)
 **🔑 Key Features**
 - 🤖 **ML Prediction Engine** — Trained on clinical datasets for accurate diagnosis
 - 🏥 **Healthcare AI** — Disease risk assessment & predictive analytics
-- 📊 **Data Analysis** — EDA on medical datasets for pattern discovery
 - 🖥️ **User-Friendly Interface** — Simple input → prediction output flow
 - 🔍 **Feature Importance** — Interpretable predictions with key health indicators
-- 🛡️ **Ethical AI Design** — Confidence scores & disclaimer for clinical use
-
-**🏗️ Architecture**
-```
-Patient Health Data → Feature Extraction → ML Classifier
-          ↓                                      ↓
-   Risk Assessment ← Confidence Score ← Trained Model
-          ↓
-Disease Prediction + Key Health Insights
-```
 
 **🔮 Future Improvements**
 - Multi-disease prediction (Diabetes, Heart Disease, Cancer)
 - LLM integration for patient-friendly explanation of results
-- Integration with EHR (Electronic Health Records)
-- Mobile-first interface for rural healthcare access
 
 </td>
 <td width="35%" valign="top" align="center">
@@ -348,16 +282,6 @@ Disease Prediction + Key Health Insights
 
 <br/>
 
-**Highlights**
-
-🏆 Healthcare AI application
-🩺 Disease risk prediction
-🧠 Interpretable ML
-📈 Clinical data analysis
-🌍 Social impact focus
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaspreet584/Disease-Prediction)
 
 </td>
@@ -365,10 +289,6 @@ Disease Prediction + Key Health Insights
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SKILLS SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Technical Skills
 
@@ -394,7 +314,7 @@ Disease Prediction + Key Health Insights
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Backend Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -417,10 +337,6 @@ Disease Prediction + Key Health Insights
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENTS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🏆 Achievements & Milestones
 
 <div align="center">
@@ -432,7 +348,7 @@ Disease Prediction + Key Health Insights
 | 🏥 **Healthcare AI** | PathoAI — disease prediction system using clinical datasets |
 | 🏦 **FinTech ML** | Credit card recommendation + fraud detection systems |
 | 🏫 **Campus Automation** | eGatePass deployed for real campus gate management |
-| 📜 **Google Certifications** | Google-certified in AI, Data Analytics & Python — via Coursera |
+| 📜 **Google Certifications** | Google-certified in AI, Data Analytics & Python via Coursera |
 | 🌐 **Open Source** | Actively contributing & learning open-source practices |
 | 📊 **Data Science** | EDA, feature engineering, model evaluation expertise |
 | 🔐 **Systems Integration** | Twilio IVR + QR Code + Flask backend in production |
@@ -441,10 +357,6 @@ Disease Prediction + Key Health Insights
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               🆕 CERTIFICATIONS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📜 Certifications
 
@@ -472,10 +384,6 @@ Disease Prediction + Key Health Insights
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -493,21 +401,15 @@ Disease Prediction + Key Health Insights
 
 <br/>
 
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Jaspreet584&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak" width="500"/>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaspreet584&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              🆕 CURRENT FOCUS (NEW SECTION)                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 What I'm Working On Right Now
 
@@ -535,10 +437,6 @@ Disease Prediction + Key Health Insights
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           🆕 2026 LEARNING ROADMAP (NEW SECTION)              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🗺️ 2026 Learning Roadmap
 
 <div align="center">
@@ -556,10 +454,6 @@ Disease Prediction + Key Health Insights
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          🆕 OPEN SOURCE JOURNEY (NEW SECTION)                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Open Source Journey
 
@@ -581,10 +475,6 @@ Disease Prediction + Key Health Insights
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTACT SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -593,7 +483,7 @@ Disease Prediction + Key Health Insights
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jaspreet-kaur" target="_blank">
+<a href="https://www.linkedin.com/in/jaspreet-kaur-45705a31a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -612,7 +502,7 @@ Disease Prediction + Key Health Insights
 </a>
 &nbsp;
 <a href="https://huggingface.co/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/jaspreetkaur" target="_blank">
@@ -627,13 +517,9 @@ Disease Prediction + Key Health Insights
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFESSIONAL FOOTER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
 **"The best way to predict the future is to build it — with data, models, and purpose."**
 
