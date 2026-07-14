@@ -4,58 +4,42 @@
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./banner.png" width="100%" alt="Jaspreet Kaur - AI & ML Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaspreet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Hero Banner"/>
 
-<br/><br/>
-
-<!-- Animated Typing -->
+<!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+AI+Solutions+that+Matter+%F0%9F%A4%96;Machine+Learning+%7C+Flask+%7C+Python+%F0%9F%90%8D;Healthcare+AI+%7C+FinTech+ML+%7C+Campus+Tech;Generative+AI+Explorer+%7C+LLMs+%7C+RAG;Open+to+AI+Internships+%26+Entry-Level+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+AI+Solutions+that+Matter+%F0%9F%A4%96;Machine+Learning+%7C+Flask+%7C+Python+%F0%9F%90%8D;Turning+Data+into+Intelligent+Products+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Real-World+Problem+Solver+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Tech Badges -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open_to_Work-00C851?style=for-the-badge)
-
-<br/><br/>
-
-> **Jaspreet Kaur** — An aspiring AI/ML Engineer who builds intelligent, production-ready applications.
-> Specializing in **healthcare AI**, **fintech ML**, and **campus automation** using Python, Scikit-learn, and Flask.
-> Actively exploring **Generative AI**, **LangChain**, and **RAG architectures**.
-
-<br/>
-
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/jaspreet-kaur-45705a31a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- Profile Badges Row -->
+<a href="https://www.linkedin.com/in/jaspreet-kaur" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+<a href="https://kaggle.com/jaspreetkaur" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/jaspreetkaur" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/jaspreetkaur" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<!-- Visitor Counter & Status -->
+<!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Jaspreet584&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open_To-AI_Engineering_Roles-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 </div>
-
 
 ---
 
@@ -155,6 +139,7 @@ Warden Dashboard (Real-time tracking)
 <br/>
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaspreet584/egatepass)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 
 </td>
 </tr>
@@ -178,9 +163,19 @@ Warden Dashboard (Real-time tracking)
 - 💼 **Business Impact** — Reduces churn & improves customer satisfaction
 - 📈 **Model Evaluation** — Precision, recall & NDCG metrics
 
+**🏗️ Architecture**
+```
+User Data → Feature Engineering → ML Model (Sklearn)
+     ↓                                    ↓
+User Profile ← Data Analysis ← Trained Recommender
+     ↓
+Ranked Credit Card Recommendations
+```
+
 **🔮 Future Improvements**
 - Deep learning with neural collaborative filtering
 - Real-time API endpoint for production integration
+- A/B testing framework for recommendation quality
 - Explainability (SHAP) for transparent suggestions
 
 </td>
@@ -195,6 +190,16 @@ Warden Dashboard (Real-time tracking)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+**Highlights**
+
+🏆 Fintech ML application
+🎯 User-based recommendations
+📊 Advanced feature engineering
+💡 Business-impact focused
+📈 Evaluation metrics
 
 <br/>
 
@@ -218,11 +223,23 @@ Warden Dashboard (Real-time tracking)
 - 🌲 **Random Forest Classifier** — High-accuracy ensemble fraud detection
 - ⚖️ **Imbalanced Data Handling** — SMOTE oversampling for class balance
 - 🔧 **Feature Engineering** — Transaction amount normalization, time features
+- 🧹 **Data Preprocessing** — Outlier removal, standardization pipeline
 - 📉 **Model Evaluation** — ROC-AUC, Confusion Matrix, Precision-Recall
 - ⚡ **Fraud Prediction** — Real-time binary classification pipeline
 
+**🏗️ Architecture**
+```
+Raw Transaction Data → Preprocessing Pipeline → Feature Engineering
+           ↓                                            ↓
+   SMOTE Oversampling ← Imbalanced Dataset ← Cleaned Data
+           ↓
+Random Forest Model → Fraud / Not Fraud (ROC-AUC: ~0.98)
+```
+
 **🔮 Future Improvements**
 - XGBoost & LightGBM ensemble for production
+- Real-time streaming with Apache Kafka
+- Model monitoring & drift detection
 - REST API deployment with FastAPI
 
 </td>
@@ -237,6 +254,16 @@ Warden Dashboard (Real-time tracking)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+<br/>
+
+**Highlights**
+
+🏆 Production-grade ML pipeline
+🌲 Random Forest ensemble
+📊 ROC-AUC evaluation
+⚖️ Imbalanced data handling
+🔒 Security-focused AI
 
 <br/>
 
@@ -259,12 +286,25 @@ Warden Dashboard (Real-time tracking)
 **🔑 Key Features**
 - 🤖 **ML Prediction Engine** — Trained on clinical datasets for accurate diagnosis
 - 🏥 **Healthcare AI** — Disease risk assessment & predictive analytics
+- 📊 **Data Analysis** — EDA on medical datasets for pattern discovery
 - 🖥️ **User-Friendly Interface** — Simple input → prediction output flow
 - 🔍 **Feature Importance** — Interpretable predictions with key health indicators
+- 🛡️ **Ethical AI Design** — Confidence scores & disclaimer for clinical use
+
+**🏗️ Architecture**
+```
+Patient Health Data → Feature Extraction → ML Classifier
+          ↓                                      ↓
+   Risk Assessment ← Confidence Score ← Trained Model
+          ↓
+Disease Prediction + Key Health Insights
+```
 
 **🔮 Future Improvements**
 - Multi-disease prediction (Diabetes, Heart Disease, Cancer)
 - LLM integration for patient-friendly explanation of results
+- Integration with EHR (Electronic Health Records)
+- Mobile-first interface for rural healthcare access
 
 </td>
 <td width="35%" valign="top" align="center">
@@ -278,6 +318,16 @@ Warden Dashboard (Real-time tracking)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+**Highlights**
+
+🏆 Healthcare AI application
+🩺 Disease risk prediction
+🧠 Interpretable ML
+📈 Clinical data analysis
+🌍 Social impact focus
 
 <br/>
 
@@ -313,7 +363,7 @@ Warden Dashboard (Real-time tracking)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 
 ### 🌐 Backend Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -347,7 +397,7 @@ Warden Dashboard (Real-time tracking)
 | 🏥 **Healthcare AI** | PathoAI — disease prediction system using clinical datasets |
 | 🏦 **FinTech ML** | Credit card recommendation + fraud detection systems |
 | 🏫 **Campus Automation** | eGatePass deployed for real campus gate management |
-| 📜 **Google Certifications** | Google-certified in AI, Data Analytics & Python via Coursera |
+| 📜 **Google Certifications** | Google-certified in AI, Data Analytics & Python — via Coursera |
 | 🌐 **Open Source** | Actively contributing & learning open-source practices |
 | 📊 **Data Science** | EDA, feature engineering, model evaluation expertise |
 | 🔐 **Systems Integration** | Twilio IVR + QR Code + Flask backend in production |
@@ -374,10 +424,10 @@ Warden Dashboard (Real-time tracking)
 
 ![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Certified-191919?style=for-the-badge&logoColor=white)
-![University of Pennsylvania](https://img.shields.io/badge/UPenn-Certified-011F5B?style=for-the-badge&logoColor=white)
-![University of Michigan](https://img.shields.io/badge/UMich-Certified-00274C?style=for-the-badge&logoColor=white)
+![UPenn](https://img.shields.io/badge/UPenn-Certified-011F5B?style=for-the-badge&logoColor=white)
+![UMich](https://img.shields.io/badge/UMich-Certified-00274C?style=for-the-badge&logoColor=white)
 ![Unstop](https://img.shields.io/badge/Unstop-Certified-FF6B35?style=for-the-badge&logoColor=white)
-![Tata Group](https://img.shields.io/badge/Tata-Participant-00A3E0?style=for-the-badge&logoColor=white)
+![Tata](https://img.shields.io/badge/Tata-Participant-00A3E0?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -482,7 +532,7 @@ Warden Dashboard (Real-time tracking)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jaspreet-kaur-45705a31a/" target="_blank">
+<a href="https://www.linkedin.com/in/jaspreet-kaur" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -501,7 +551,7 @@ Warden Dashboard (Real-time tracking)
 </a>
 &nbsp;
 <a href="https://huggingface.co/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/jaspreetkaur" target="_blank">
@@ -518,7 +568,7 @@ Warden Dashboard (Real-time tracking)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
 **"The best way to predict the future is to build it — with data, models, and purpose."**
 
