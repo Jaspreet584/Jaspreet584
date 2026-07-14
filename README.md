@@ -4,9 +4,13 @@
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaspreet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Hero Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Jaspreet+Kaur" alt="Jaspreet Kaur" width="100%"/>
 
-<!-- Typing SVG Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=45&lines=AI+%26+ML+Engineer+%7C+Python+Developer+%7C+Open+Source+Enthusiast" alt="subtitle" width="100%"/>
+
+<br/>
+
+<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+AI+Solutions+that+Matter+%F0%9F%A4%96;Machine+Learning+%7C+Flask+%7C+Python+%F0%9F%90%8D;Turning+Data+into+Intelligent+Products+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Real-World+Problem+Solver+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
