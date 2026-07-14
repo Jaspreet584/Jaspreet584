@@ -4,28 +4,28 @@
 <!--                   STUNNING HERO SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,24&height=280&section=header&text=Jaspreet%20Kaur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20%26%20ML%20Engineer%20%7C%20🐍%20Python%20Developer%20%7C%20🚀%20Open%20Source%20Enthusiast&descAlignY=62&descSize=17&descColor=a8d8ff&stroke=0a84ff&strokeWidth=2" width="100%" alt="Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,30:0d1b6e,60:1a1a8c,100:0a84ff&height=280&section=header&text=Jaspreet%20Kaur&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=18&descColor=a8d8ff" width="100%" alt="Hero Banner"/>
 
 <br/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=👩‍💻+AI+%26+ML+Engineer+%7C+Python+Developer;🤖+Building+Intelligent+Real-World+Systems;🏥+Healthcare+AI+%7C+💳+FinTech+ML+%7C+🏫+Campus+Tech;🧠+Generative+AI+Explorer+%7C+LLMs+%7C+RAG;🚀+Open+to+AI+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=AI+%26+ML+Engineer+%7C+Python+Developer;Building+Intelligent+Real-World+Systems;Healthcare+AI+%7C+FinTech+ML+%7C+Campus+Tech;Generative+AI+Explorer+%7C+LLMs+%7C+RAG;Open+to+AI+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Status Pills -->
-<img src="https://img.shields.io/badge/🔍_Status-Open_to_Opportunities-00C851?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Location-India_🇮🇳-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Focus-AI_%26_ML_Engineering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI_%26_ML_Engineering-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://www.linkedin.com/in/jaspreet-kaur" target="_blank">
+<a href="https://www.linkedin.com/in/jaspreet-kaur-45705a31a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -38,7 +38,7 @@
 </a>
 &nbsp;
 <a href="https://huggingface.co/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/jaspreetkaur" target="_blank">
@@ -48,7 +48,7 @@
 <br/><br/>
 
 <!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
@@ -58,6 +58,7 @@
 </div>
 
 ---
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        ABOUT ME                               -->
