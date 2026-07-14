@@ -4,8 +4,9 @@
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1>👩‍💻 Jaspreet Kaur</h1>
-<h3><em>AI & ML Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Open Source Enthusiast</em></h3>
+<img src="./banner.png" width="100%" alt="Jaspreet Kaur - AI & ML Engineer"/>
+
+<br/><br/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
@@ -35,27 +36,26 @@
 </a>
 &nbsp;
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://kaggle.com/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-&nbsp;
-<a href="https://huggingface.co/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://twitter.com/jaspreetkaur" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter & Status -->
 <img src="https://komarev.com/ghpvc/?username=Jaspreet584&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open_To-AI_Engineering_Roles-00C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 </div>
+
 
 ---
 
