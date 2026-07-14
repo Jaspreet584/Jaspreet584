@@ -4,9 +4,8 @@
 <!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Jaspreet%20Kaur&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
+<h1>👩‍💻 Jaspreet Kaur</h1>
+<h3><em>AI & ML Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Open Source Enthusiast</em></h3>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
