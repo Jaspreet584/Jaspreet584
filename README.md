@@ -1,16 +1,18 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   STUNNING HERO SECTION                       -->
+<!--                        HERO SECTION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./banner.png" width="100%" alt="Jaspreet Kaur - AI & ML Engineer"/>
+<h1>👩‍💻 Jaspreet Kaur</h1>
+
+<h3>AI & ML Engineer · Python Developer · Open Source Enthusiast</h3>
 
 <br/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=AI+%26+ML+Engineer+%7C+Python+Developer;Building+Intelligent+Real-World+Systems;Healthcare+AI+%7C+FinTech+ML+%7C+Campus+Tech;Generative+AI+Explorer+%7C+LLMs+%7C+RAG;Open+to+AI+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+AI+Solutions+that+Matter+%F0%9F%A4%96;Machine+Learning+%7C+Flask+%7C+Python+%F0%9F%90%8D;Healthcare+AI+%7C+FinTech+ML+%7C+Campus+Tech;Generative+AI+Explorer+%7C+LLMs+%7C+RAG;Open+to+AI+Internships+%26+Entry-Level+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
