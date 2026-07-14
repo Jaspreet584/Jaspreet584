@@ -4,7 +4,7 @@
 <!--                   STUNNING HERO SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Jaspreet%20Kaur&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=18&descColor=a8d8ff" width="100%" alt="Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jaspreet%20Kaur&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Hero Banner"/>
 
 <br/>
 
@@ -48,7 +48,7 @@
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
 <br/>
 
