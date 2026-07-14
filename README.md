@@ -1,25 +1,36 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
+<!--                   STUNNING HERO SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaspreet%20Kaur&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,24&height=280&section=header&text=Jaspreet%20Kaur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20%26%20ML%20Engineer%20%7C%20🐍%20Python%20Developer%20%7C%20🚀%20Open%20Source%20Enthusiast&descAlignY=62&descSize=17&descColor=a8d8ff&stroke=0a84ff&strokeWidth=2" width="100%" alt="Hero Banner"/>
 
-<!-- Typing SVG Animation -->
+<br/>
+
+<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+AI+Solutions+that+Matter+%F0%9F%A4%96;Machine+Learning+%7C+Flask+%7C+Python+%F0%9F%90%8D;Turning+Data+into+Intelligent+Products+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Real-World+Problem+Solver+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=👩‍💻+AI+%26+ML+Engineer+%7C+Python+Developer;🤖+Building+Intelligent+Real-World+Systems;🏥+Healthcare+AI+%7C+💳+FinTech+ML+%7C+🏫+Campus+Tech;🧠+Generative+AI+Explorer+%7C+LLMs+%7C+RAG;🚀+Open+to+AI+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Badges Row -->
+<!-- Status Pills -->
+<img src="https://img.shields.io/badge/🔍_Status-Open_to_Opportunities-00C851?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Location-India_🇮🇳-FF6B6B?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼_Focus-AI_%26_ML_Engineering-6C63FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Social Links -->
 <a href="https://www.linkedin.com/in/jaspreet-kaur" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://kaggle.com/jaspreetkaur" target="_blank">
@@ -27,7 +38,7 @@
 </a>
 &nbsp;
 <a href="https://huggingface.co/jaspreetkaur" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/jaspreetkaur" target="_blank">
@@ -35,6 +46,11 @@
 </a>
 
 <br/><br/>
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=Jaspreet584&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" width="100%"/>
+
+<br/>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Jaspreet584&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
@@ -413,11 +429,41 @@ Disease Prediction + Key Health Insights
 | 🏥 **Healthcare AI** | PathoAI — disease prediction system using clinical datasets |
 | 🏦 **FinTech ML** | Credit card recommendation + fraud detection systems |
 | 🏫 **Campus Automation** | eGatePass deployed for real campus gate management |
-| 📜 **Certifications** | Coursera, LinkedIn Learning — ML & Python certifications |
+| 📜 **Google Certifications** | Google-certified in AI, Data Analytics & Python — via Coursera |
 | 🌐 **Open Source** | Actively contributing & learning open-source practices |
 | 📊 **Data Science** | EDA, feature engineering, model evaluation expertise |
 | 🔐 **Systems Integration** | Twilio IVR + QR Code + Flask backend in production |
 | 🚀 **End-to-End Development** | Designed, built & deployed complete AI-powered applications |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               🆕 CERTIFICATIONS SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certificate | 🏢 Issuer | 📅 Date | 🔗 |
+|:---|:---|:---:|:---:|
+| 🧠 **AI and Machine Learning Essentials with Python** | University of Pennsylvania | 2026 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+| 🐍 **Programming for Everybody (Getting Started with Python)** | University of Michigan | 2026 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+| 🐙 **GitHub Workflow Mastery** | Unstop | Jul 2026 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+| 🤖 **Google AI** | Google | Jul 2026 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+| 🧬 **Claude 101** | Anthropic | Jul 2026 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+| 🏆 **TATA Crucible Campus Quiz 2025** | Tata Group | Nov 2025 | [![View](https://img.shields.io/badge/LinkedIn-View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaspreet-kaur-45705a31a/) |
+
+<br/>
+
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Certified-191919?style=for-the-badge&logoColor=white)
+![University of Pennsylvania](https://img.shields.io/badge/UPenn-Certified-011F5B?style=for-the-badge&logoColor=white)
+![University of Michigan](https://img.shields.io/badge/UMich-Certified-00274C?style=for-the-badge&logoColor=white)
+![Unstop](https://img.shields.io/badge/Unstop-Certified-FF6B35?style=for-the-badge&logoColor=white)
+![Tata Group](https://img.shields.io/badge/Tata-Participant-00A3E0?style=for-the-badge&logoColor=white)
 
 </div>
 
