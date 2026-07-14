@@ -4,7 +4,7 @@
 <!--                   STUNNING HERO SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jaspreet%20Kaur&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Hero Banner"/>
+<img src="./banner.png" width="100%" alt="Jaspreet Kaur - AI & ML Engineer"/>
 
 <br/>
 
